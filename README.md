@@ -2,7 +2,7 @@
 
 简易安卓计算器软件
 
-> Android Studio项目，可克隆下来用android-studio直接打开
+> Android Studio项目，可克隆下来用android-studio直接打开，也可以去Releases下载apk文件
 >
-> 也可以去Releases下载apk文件
+> 自己写着玩儿的，后期随缘优化
 
